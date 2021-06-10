@@ -10,7 +10,7 @@ Point cloud and feature visualization using the visualization tool of [[PointNet
 - Visualized point cloud feature example.
 
 <p align="center">
-<img src='./pointcloud_feature_visualization_open3d/feature_visualization_ex.png' width=300/>
+<img src='./pointcloud_feature_visualization_open3d/feature_visualization_ex.png' width=600/>
 </p>
 
 ## Implementation
