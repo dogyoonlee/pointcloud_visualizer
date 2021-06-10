@@ -32,5 +32,7 @@ MIT License
 If you find our work useful in your research, please consider citing ours, [[PointNet++]](https://github.com/charlesq34/pointnet2/), [[open3d]](https://github.com/intel-isl/Open3D) repository.
 
 @ https://github.com/dogyoonlee/pointcloud_visualizer
+
 @ https://github.com/charlesq34/pointnet2/
+
 @ https://github.com/intel-isl/Open3D
