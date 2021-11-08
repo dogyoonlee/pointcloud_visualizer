@@ -162,6 +162,18 @@ def showpoints(xyz, c_gt=None, c_pred=None, waittime=0, showrot=False, magnifyBl
             changed = True
         elif cmd == ord('s'):
             cv2.imwrite('show3d.png', show)
+        elif cmd == ord('j'):
+            mousey += 0.01
+            changed = True
+        elif cmd == ord('l'):
+            mousey += -0.01
+            changed = True
+        elif cmd == ord('k'):
+            mousex += 0.01
+            changed = True
+        elif cmd == ord('i'):
+            mousex += -0.01
+            changed = True
         if waittime != 0:
             break
     return cmd
