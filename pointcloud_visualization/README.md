@@ -33,6 +33,19 @@ python show3d_balls.py --path $data
 
 - If you want background color as black, put the argument `--background_black`
 
+5. For change the view, the role of the button in the visualizer is as follows.
+
+```
+q: quit
+n: zoom-in
+m: zoom-out
+r: reset zoom
+s: image save
+j & l: y-axis rotation
+i & k: x-axis rotation
+** you can also rotate the object using mouse event
+```
+
 ## License
 
 MIT License
